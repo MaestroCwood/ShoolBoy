@@ -20,7 +20,7 @@ A 3D Unity game about moving through a school, fighting enemies, and using weapo
 
 The script names keep their original spelling. This repository is a game project, not an infrastructure project. 
 
-Screenshots still worth adding later:
+
 
 - a view of the school level
 - the player with a weapon
